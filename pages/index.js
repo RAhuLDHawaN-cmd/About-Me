@@ -36,7 +36,7 @@ export default function Home() {
             </nav>
 
             <div className="text-center">
-              <span className="text-3xl py-1 dark:text-white heads">Hello, I'm</span>
+              <span className="text-3xl py-1 dark:text-white heads">Hello World, I'm</span>
               <h2 className="text-5xl py-2 text-teal-600 font-medium dark:text-teal-400 md:text-8xl jumbo">Rahul Dhawan</h2>
               <div className="bg-white flex space-x-2 p-1 rounded-full justify-center items-center dark:bg-zinc-900">
                 <div className="bg-blue-600 p-2 w-6 h-6 rounded-full animate-bounce blue-circle"></div>
