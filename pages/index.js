@@ -48,7 +48,7 @@ export default function Home() {
                 Over couple of years, I acquired extensive experience as a Full-Stack Developer built two start-ups, which empowered me to devise a process that brings out the best of my skills. Working on building webapps powered by GPT-4 and Open AI
               </h4>
               <h4 className="text-md desc py-1 leading-8 text-gray-800 mx-auto md:text-xl dark:text-gray-200 max-w-3xl">
-                Aimed to solve real-world challenges. Let's make something special.!
+                Aimed to solve real-world challenges. Let's make something special!
               </h4>
               <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
                 <a href="https://github.com/RAhuLDHawaN-cmd">
