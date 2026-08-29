@@ -67,8 +67,13 @@ export default function Home() {
           <section id="services">
             <div>
               <h3 className="text-3xl py-1 dark:text-white heads">Services offered</h3>
-              <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 md:text-xl desc">Since the beginning of my journey as a freelance designer and developer, I've done remote work for <span className="text-teal-500"> Info-Techs </span>consulted for <span className="text-teal-500"> StartUps </span>and collaborated with talanted people to create digital products for both business and consumer use.</p>
-              <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 md:text-xl desc">Offering a plethora of services, including Design, Programming and User Experience.</p>
+
+<p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 md:text-xl desc">
+  Since the beginning of my journey as a freelance developer and designer, my expertise has evolved to include robust <span className="text-teal-500 dark:text-teal-400">Cloud Architecture</span> and <span className="text-teal-500 dark:text-teal-400">DevOps</span>. I've done remote work for agencies, consulted for startups, and collaborated with talented people to build, deploy, and scale digital products for both business and consumer use.
+</p>
+<p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 md:text-xl desc">
+  I offer a comprehensive range of services, from programming and design to cloud hosting using <span className="text-teal-500 dark:text-teal-400">AWS (EC2, S3, CloudFront, ACM)</span>. My technical workflow also includes automating deployments with <span className="text-teal-500 dark:text-teal-400">CI/CD pipelines</span> and <span className="text-teal-500 dark:text-teal-400">GitHub Actions</span>, alongside handling complete DNS and Origin integrations.
+</p>
             </div>
             <div className="lg:flex gap-10">
               <div className="text-center shadow-lg p-10 rounded-xl my-10 dark:bg-zinc-700 flex-1">
